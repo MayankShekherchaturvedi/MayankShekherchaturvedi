@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mayank Shekher Chaturvedi
-- 👀 I’m interested in Coaing , game-creation , gaming and music
-- 🌱 I’m currently a 10th grader and learning coading in Java scripts,C++ etc.
-- 💞️ I’m looking to collaborate on my pojects.
+- 👋 Hi, I’m Mayank Shekher Chaturvedi
+- 👀 I’m interested in Coaing , game-devlopment , gaming and music
+- 🌱 I’m currently a 11th grader and learning coading in Java scripts,C++ etc.
+-  I’m looking to collaborate on my pojects
 - 📫 How to reach me mightygamexl@gmail.com
 
 <!---
