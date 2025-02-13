@@ -1,6 +1,6 @@
  Hi, I’m Mayank Shekher Chaturvedi
 - 👀 I’m interested in Coading, game development, gaming and music
--  I’m currently a student and learning coding in Java scripts, HTML, CSS, Python, SQL, C++ (somewhat) Web Development etc.
+-  I’m currently a student and learning coding in Java scripts, HTML, CSS, Python, SQL, C# (somewhat) Web Development etc.
 -  I’m looking to MAKE SOME GOOD WORK on my projects
 - How to reach me mightygamexl@gmail.com
 
