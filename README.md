@@ -1,10 +1,10 @@
  Hi, I’m Mayank Shekher Chaturvedi
-- 👀 I’m interested in Coading, game development, gaming and music
--  I’m currently a student and learning coding in Java scripts, HTML, CSS, Python, SQL, C# (somewhat) Web Development etc.
+- I’m interested in Programing, game development, gaming and music.
+-  I’m currently a college student and learning AI/ML, DSA, Web-devlopment and Game Devlopment.
 -  I’m looking to MAKE SOME GOOD WORK on my projects
-- How to reach me mightygamexl@gmail.com
+- How to reach me:
+   mightygamexl@gmail.com
 
-the following is developed by me or contributed by me and if anyone else claims it to be his or hers and asks for money for it, they are scamming ya!!
 
 <!---
 MayankShekherchaturvedi/MayankShekherchaturvedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
